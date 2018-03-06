@@ -2,6 +2,22 @@
 
 ## Memory
 
+What every programmer should know about memory
+http://futuretech.blinkenlights.nl/misc/cpumemory.pdf
+
+Memory & Caches (1h11)
+https://www.youtube.com/watch?v=4_smHyqgDTU
+
+## SIMD
+
+SIMD at Insomniac Games
+http://www.gdcvault.com/play/1022249/SIMD-at-Insomniac-Games-How 
+
+## Optimization
+
+Optimization Manuals
+http://agner.org/optimize/#manuals
+
 ## Linking libraries in far too many ways
 
 * Static Lib Linking (.lib)
