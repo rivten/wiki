@@ -1,0 +1,35 @@
+# LOW LEVEL WIKI
+
+
+## Linking libraries in far too many ways
+
+* Static Lib Linking (.lib)
+* Dynamic Lib Linking (.dll)
+* Implicit Linking (load-time)
+* Name Import Library
+* Explicit Linking (run-time)
+* ABI (put ABI reference for Unix)
+* Linking with asm and C
+* Static functions (no function table by the linker)
+* Why chose static over dynamic ?
+* Why chose implicit over explicit ?
+* What about other OS ? (Linux, consoles)
+* Code examples (obviously)
+* .def files on Window
+* function name mangling in C++ ...
+
+
+### Websites / ref
+https://msdn.microsoft.com/en-us/library/windows/desktop/ms681914.aspx (lots of other ref at the end)
+https://www.youtube.com/watch?v=JPQWQfDhICA (Everything you ever wanted to know about DLLs)
+http://www.cs-fundamentals.com/tech-interview/c/difference-between-static-and-dynamic-linking.php (static vs dynamic linking)
+https://stackoverflow.com/questions/1993390/static-linking-vs-dynamic-linking
+https://msdn.microsoft.com/en-us/library/7k30y2k5.aspx (how to export a function in Windows)
+See how handmade hero does it (even for linux : -fPIC -shared)
+See the Handmade Hero episode where he explains the map that you can look at in Windows
+https://msdn.microsoft.com/en-us/library/zxk0tw93.aspx
+https://msdn.microsoft.com/en-us/library/3y1sfaz2.aspx
+Some stackoverflow :
+https://stackoverflow.com/questions/6251171/architecturally-what-is-the-difference-between-a-shared-object-so-and-a-dynami
+https://stackoverflow.com/questions/538134/exporting-functions-from-a-dll-with-dllexport
+https://stackoverflow.com/questions/2538103/how-to-call-a-function-from-a-shared-library
