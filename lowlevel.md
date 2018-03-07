@@ -18,6 +18,11 @@ http://www.gdcvault.com/play/1022249/SIMD-at-Insomniac-Games-How
 Optimization Manuals
 http://agner.org/optimize/#manuals
 
+## Assembly
+
+Assembly is too high-level (45min)
+https://www.youtube.com/watch?v=eunYrrcxXfw
+
 ## Linking libraries in far too many ways
 
 * Static Lib Linking (.lib)
