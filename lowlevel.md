@@ -8,6 +8,19 @@ http://futuretech.blinkenlights.nl/misc/cpumemory.pdf
 Memory & Caches (1h11)
 https://www.youtube.com/watch?v=4_smHyqgDTU
 
+Understanding Strict Aliasing
+https://cellperformance.beyond3d.com/articles/2006/06/understanding-strict-aliasing.html
+
+### Alignemnt
+
+Data alignment : Straighten up and fly right
+https://www.ibm.com/developerworks/library/pa-dalign/
+
+The Lost Art of C Structure Packing
+http://www.catb.org/esr/structure-packing/
+
+### Load / Hit Store
+
 ## SIMD
 
 SIMD at Insomniac Games

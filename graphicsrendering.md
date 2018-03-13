@@ -12,6 +12,9 @@ https://mynameismjp.wordpress.com/2018/03/06/breaking-down-barriers-part-1-whats
 Using Arrays of Textures in Vulkan Shaders
 http://kylehalladay.com/blog/tutorial/vulkan/2018/01/28/Textue-Arrays-Vulkan.html
 
+Codegen for Fast Vulkan
+https://anteru.net/blog/2018/codegen-for-fast-vulkan/
+
 ## GPU-Based Occlusion Culling
 
 Experiments in GPU-Based Occlusion Culling
@@ -27,6 +30,9 @@ http://advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_f
 
 Voxel Lighting
 https://0fps.net/2018/02/21/voxel-lighting/
+
+Horizon-Based Indirect Lighting (HBIL)
+https://drive.google.com/file/d/1fmceYuM5J2s8puNHZ9o4OF3YjqzIvmRR/view
 
 ## Frame Analysis
 
@@ -51,6 +57,17 @@ https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-20
 The coverage of real surface colors by RGB color spaces and wide gamut displays
 http://www.tftcentral.co.uk/articles/pointers_gamut.htm
 
+Don't convert sRGB U8 to Linear U8 !
+https://blog.demofox.org/2018/03/10/dont-convert-srgb-u8-to-linear-u8/
+
+## Physically Based Rendering
+
+Importance Sampling Techniques for GGX with Smith Masking-Shadowing: Part 1
+https://schuttejoe.github.io/post/ggximportancesamplingpart1/
+
+Importance Sampling Techniques for GGX with Smith Masking-Shadowing: Part 2
+https://schuttejoe.github.io/post/ggximportancesamplingpart2/
+
 ## Unsorted (bad)
 
 Rendering in Camera Space(ish)
@@ -64,3 +81,6 @@ http://www.yosoygames.com.ar/wp/2018/03/vertex-formats-part-2-fetch-vs-pull/
 
 Screen-filling Rasterization using Screen-Aligned Quads and Triangles
 https://www.cginternals.com/en/blog/2018-01-10-screen-aligned-quads-and-triangles.html
+
+Simulation and Rendering Massive Crowds of Intelligent and Detailed Creatures on GPU
+http://www.chrisoat.com/papers/Oat-Tatarchuk-Froblins-Siggraph2008.pdf
