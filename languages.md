@@ -3,7 +3,7 @@
 ## Compiler
 
 Compiler Construction
-http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf
+http://www-oldurls.inf.ethz.ch/personal/wirth/CompilerConstruction/
 
 ## Grammar
 
