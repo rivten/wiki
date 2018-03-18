@@ -36,6 +36,9 @@ http://agner.org/optimize/#manuals
 Assembly is too high-level (45min)
 https://www.youtube.com/watch?v=eunYrrcxXfw
 
+Programming from the Ground Up
+https://savannah.nongnu.org/projects/pgubook/
+
 ## Linking libraries in far too many ways
 
 * Static Lib Linking (.lib)
