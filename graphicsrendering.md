@@ -15,6 +15,11 @@ http://kylehalladay.com/blog/tutorial/vulkan/2018/01/28/Textue-Arrays-Vulkan.htm
 Codegen for Fast Vulkan
 https://anteru.net/blog/2018/codegen-for-fast-vulkan/
 
+## Frustum Culling
+
+The Implementation of Frustum Culling in Stingray
+https://bitsquid.blogspot.fr/2016/10/the-implementation-of-frustum-culling.html
+
 ## GPU-Based Occlusion Culling
 
 Experiments in GPU-Based Occlusion Culling
@@ -84,3 +89,6 @@ https://www.cginternals.com/en/blog/2018-01-10-screen-aligned-quads-and-triangle
 
 Simulation and Rendering Massive Crowds of Intelligent and Detailed Creatures on GPU
 http://www.chrisoat.com/papers/Oat-Tatarchuk-Froblins-Siggraph2008.pdf
+
+Interviewing for your First Job as a Graphics Programmer: a Checklist of Common Interview Questions
+https://erkaman.github.io/posts/junior_graphics_programmer_interview.html
