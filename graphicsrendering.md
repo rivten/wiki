@@ -7,6 +7,11 @@ http://the-witness.net/news/2011/07/irradiance-caching-part-1/
 
 ## Shaders
 
+## High Level
+
+Render graphs and Vulkan -- a deep dive
+http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/
+
 ## Low-Level
 
 ## Vulkan / DX12
