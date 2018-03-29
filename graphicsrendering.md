@@ -1,5 +1,10 @@
 # GRAPHICS RENDERING
 
+## Global Illumination
+
+Irradiance Caching - Part 1
+http://the-witness.net/news/2011/07/irradiance-caching-part-1/
+
 ## Shaders
 
 ## Low-Level
@@ -72,6 +77,21 @@ https://schuttejoe.github.io/post/ggximportancesamplingpart1/
 
 Importance Sampling Techniques for GGX with Smith Masking-Shadowing: Part 2
 https://schuttejoe.github.io/post/ggximportancesamplingpart2/
+
+## Shadows
+
+Graphics Tech: Shadow Maps (Part 1)
+http://the-witness.net/news/2010/03/graphics-tech-shadow-maps-part-1/
+
+## GPU Ray Tracing
+
+A Very Quick DirectX Raytracing API Primer
+https://blog.demofox.org/2018/03/19/a-very-quick-directx-raytracing-api-primer/
+
+## Ray Tracing
+
+Daily Pathtracing Part 0 : Intro
+https://aras-p.info/blog/2018/03/28/Daily-Pathtracer-Part-0-Intro/
 
 ## Unsorted (bad)
 
