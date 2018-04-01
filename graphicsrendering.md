@@ -2,8 +2,14 @@
 
 ## Global Illumination
 
+Lightmap Parametrization
+http://the-witness.net/news/2010/03/graphics-tech-texture-parameterization/
+
 Irradiance Caching - Part 1
 http://the-witness.net/news/2011/07/irradiance-caching-part-1/
+
+Precomputed Global Illumination in Frostbite
+http://gdcvault.com/play/1025434/Precomputed-Global-Illumination-in
 
 ## Shaders
 
@@ -87,6 +93,9 @@ https://schuttejoe.github.io/post/ggximportancesamplingpart2/
 
 Graphics Tech: Shadow Maps (Part 1)
 http://the-witness.net/news/2010/03/graphics-tech-shadow-maps-part-1/
+
+A Sampling of Shadow Techniques
+https://mynameismjp.wordpress.com/2013/09/10/shadow-maps/
 
 ## GPU Ray Tracing
 
