@@ -11,6 +11,9 @@ https://www.youtube.com/watch?v=4_smHyqgDTU
 Understanding Strict Aliasing
 https://cellperformance.beyond3d.com/articles/2006/06/understanding-strict-aliasing.html
 
+Handles are the better pointer
+https://floooh.github.io/2018/06/17/handles-vs-pointers.html
+
 ### Alignemnt
 
 Data alignment : Straighten up and fly right
