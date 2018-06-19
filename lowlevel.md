@@ -45,6 +45,11 @@ https://savannah.nongnu.org/projects/pgubook/
 x86-64 Assembly Language Programming with Ubuntu
 http://www.egr.unlv.edu/~ed/assembly64.pdf
 
+## Computer architecture
+
+Building an 8-bit breadboard computer (Youtube Playlist)
+https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU
+
 ## Linking libraries in far too many ways
 
 * Static Lib Linking (.lib)
