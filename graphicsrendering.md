@@ -89,6 +89,9 @@ https://schuttejoe.github.io/post/ggximportancesamplingpart1/
 Importance Sampling Techniques for GGX with Smith Masking-Shadowing: Part 2
 https://schuttejoe.github.io/post/ggximportancesamplingpart2/
 
+Rendering Layered Materials
+https://ivokabel.github.io/2018/05/15/rendering-layered-materials.html
+
 ## Shadows
 
 Graphics Tech: Shadow Maps (Part 1)
