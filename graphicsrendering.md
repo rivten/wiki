@@ -110,6 +110,9 @@ https://blog.demofox.org/2018/03/19/a-very-quick-directx-raytracing-api-primer/
 Daily Pathtracing Part 0 : Intro
 https://aras-p.info/blog/2018/03/28/Daily-Pathtracer-Part-0-Intro/
 
+Mathematical methods for image synthesis
+https://perso.liris.cnrs.fr/nicolas.bonneel/ENS.html
+
 ## Unsorted (bad)
 
 Rendering in Camera Space(ish)
