@@ -1,5 +1,14 @@
 # DATA STRUCTURES
 
+## Hash Table
+
+A Performance Comparison of Judy to Hash Tables
+http://nothings.org/computer/judy/
+
+
+C++Now 2018: You Can Do Better than std::unordered_map: New Improvements to Hash Table Performance
+https://www.youtube.com/watch?v=M2fKMP47slQ
+
 ## Tree
 
 Elastic Binary Trees
