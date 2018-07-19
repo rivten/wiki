@@ -119,6 +119,9 @@ https://blog.demofox.org/2018/03/19/a-very-quick-directx-raytracing-api-primer/
 High-Performance By-Example Noise using a Histogram-Preserving Blending Operator
 https://hal.inria.fr/hal-01824773/document
 
+Virtual Textures (aka Megatextures) talk
+https://www.youtube.com/watch?v=MejJL87yNgI
+
 ## Ray Tracing
 
 Daily Pathtracing Part 0 : Intro
