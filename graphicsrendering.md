@@ -13,10 +13,16 @@ http://gdcvault.com/play/1025434/Precomputed-Global-Illumination-in
 
 ## Shaders
 
+Introduction to Compute Shaders
+https://anteru.net/blog/2018/intro-to-compute-shaders/
+
 ## High Level
 
 Render graphs and Vulkan -- a deep dive
 http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/
+
+Destiny's Multithreaded Rendering Architecture
+https://www.youtube.com/watch?v=0nTDFLMLX9k
 
 ## Low-Level
 
@@ -73,6 +79,9 @@ https://github.com/dtrebilco/PreMulAlpha
 A trip through the Graphics Pipeline 2011: Index
 https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/
 
+Linear-Speed Vertex Cache Optimisation
+https://tomforsyth1000.github.io/papers/fast_vert_cache_opt.html
+
 ## Color spaces
 
 The coverage of real surface colors by RGB color spaces and wide gamut displays
@@ -105,6 +114,11 @@ https://mynameismjp.wordpress.com/2013/09/10/shadow-maps/
 A Very Quick DirectX Raytracing API Primer
 https://blog.demofox.org/2018/03/19/a-very-quick-directx-raytracing-api-primer/
 
+## Textures
+
+High-Performance By-Example Noise using a Histogram-Preserving Blending Operator
+https://hal.inria.fr/hal-01824773/document
+
 ## Ray Tracing
 
 Daily Pathtracing Part 0 : Intro
@@ -132,3 +146,6 @@ http://www.chrisoat.com/papers/Oat-Tatarchuk-Froblins-Siggraph2008.pdf
 
 Interviewing for your First Job as a Graphics Programmer: a Checklist of Common Interview Questions
 https://erkaman.github.io/posts/junior_graphics_programmer_interview.html
+
+Real-Time Rendering, 4th Edition Bibliography (over 2k refs)
+http://www.realtimerendering.com/refs.html
