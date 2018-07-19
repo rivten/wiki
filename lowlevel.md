@@ -45,6 +45,9 @@ https://savannah.nongnu.org/projects/pgubook/
 x86-64 Assembly Language Programming with Ubuntu
 http://www.egr.unlv.edu/~ed/assembly64.pdf
 
+Assembly Language for Beginners
+https://yurichev.com/writings/AL4B-EN.pdf
+
 ## Computer architecture
 
 Building an 8-bit breadboard computer (Youtube Playlist)
