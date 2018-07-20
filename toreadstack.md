@@ -32,3 +32,6 @@ https://diaryofagraphicsprogrammer.blogspot.com/2018/03/triangle-visibility-buff
 
 Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I
 http://www-formal.stanford.edu/jmc/recursive.pdf
+
+Numerical Algorithms
+https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf
