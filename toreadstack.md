@@ -29,3 +29,6 @@ https://drive.google.com/drive/folders/1gmn5XSYDUsOPXXKQO73zCpGAHWAfnK1U
 
 Triangle Visibility Buffer
 https://diaryofagraphicsprogrammer.blogspot.com/2018/03/triangle-visibility-buffer.html?m=1
+
+Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I
+http://www-formal.stanford.edu/jmc/recursive.pdf
