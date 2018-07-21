@@ -35,3 +35,7 @@ http://www-formal.stanford.edu/jmc/recursive.pdf
 
 Numerical Algorithms
 https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf
+
+A memory mappable, zero-copy asset format for real-time graphics
+https://www.youtube.com/watch?v=qZM2B4D7hZs
+
