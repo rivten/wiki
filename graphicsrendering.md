@@ -16,6 +16,9 @@ http://gdcvault.com/play/1025434/Precomputed-Global-Illumination-in
 Introduction to Compute Shaders
 https://anteru.net/blog/2018/intro-to-compute-shaders/
 
+An introduction to shader derivative functions
+http://www.aclockworkberry.com/shader-derivative-functions/
+
 ## High Level
 
 Render graphs and Vulkan -- a deep dive
