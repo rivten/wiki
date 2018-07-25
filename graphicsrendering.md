@@ -31,6 +31,9 @@ https://www.youtube.com/watch?v=0nTDFLMLX9k
 
 ## Vulkan / DX12
 
+Vulkan Specification
+https://www.khronos.org/registry/vulkan/specs/1.0/html/vkspec.html
+
 Breaking Down Barriers - Part 1 : What's a Barrier ?
 https://mynameismjp.wordpress.com/2018/03/06/breaking-down-barriers-part-1-whats-a-barrier/
 
