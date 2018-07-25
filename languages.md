@@ -15,3 +15,8 @@ https://web.archive.org/web/20131228024914/http://www.itu.dk/people/kfl/parserno
 
 Parsing Expressions by Recursive Descent
 https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm
+
+## C Language
+
+C11 Specification Draft
+http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf
