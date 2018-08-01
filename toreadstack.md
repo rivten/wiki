@@ -44,3 +44,6 @@ https://drive.google.com/file/d/0B-vIMNU74JYOSWxReWxCNl9NaHM/view
 
 Game AI Pro - Volume 2
 https://drive.google.com/file/d/0B-vIMNU74JYOcnRSZ0xzZVJPcG8/view
+
+Cache-Oblivious Algorithms and Data Structures
+http://erikdemaine.org/papers/BRICS2002/paper.pdf
