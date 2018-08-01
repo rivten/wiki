@@ -136,6 +136,11 @@ https://aras-p.info/blog/2018/03/28/Daily-Pathtracer-Part-0-Intro/
 Mathematical methods for image synthesis
 https://perso.liris.cnrs.fr/nicolas.bonneel/ENS.html
 
+## Geometry
+
+0fps blog
+https://0fps.net/
+
 ## Unsorted (bad)
 
 The Elusive Frame Timing
