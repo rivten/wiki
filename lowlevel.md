@@ -34,6 +34,12 @@ http://www.gdcvault.com/play/1022249/SIMD-at-Insomniac-Games-How
 Optimization Manuals
 http://agner.org/optimize/#manuals
 
+CppCon 2014: Mike Acton "Data-Oriented Design and C++"
+https://www.youtube.com/watch?v=rX0ItVEVjHc
+
+Mike Acton: Typical C++ Bullshit
+https://macton.smugmug.com/Other/2008-07-15-by-Eye-Fi/n-xmKDH/
+
 ## Assembly
 
 Assembly is too high-level (45min)
