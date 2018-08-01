@@ -138,6 +138,9 @@ https://perso.liris.cnrs.fr/nicolas.bonneel/ENS.html
 
 ## Unsorted (bad)
 
+The Elusive Frame Timing
+https://medium.com/@alen.ladavac/the-elusive-frame-timing-168f899aec92
+
 Rendering in Camera Space(ish)
 http://pharr.org/matt/blog/2018/03/02/rendering-in-camera-space.html
 
