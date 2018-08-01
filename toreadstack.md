@@ -39,3 +39,8 @@ https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf
 A memory mappable, zero-copy asset format for real-time graphics
 https://www.youtube.com/watch?v=qZM2B4D7hZs
 
+Game AI Pro - Volume 1
+https://drive.google.com/file/d/0B-vIMNU74JYOSWxReWxCNl9NaHM/view
+
+Game AI Pro - Volume 2
+https://drive.google.com/file/d/0B-vIMNU74JYOcnRSZ0xzZVJPcG8/view

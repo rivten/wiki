@@ -143,6 +143,9 @@ https://0fps.net/
 
 ## Unsorted (bad)
 
+GPU Gems
+https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html
+
 The Elusive Frame Timing
 https://medium.com/@alen.ladavac/the-elusive-frame-timing-168f899aec92
 
