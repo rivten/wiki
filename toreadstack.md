@@ -44,3 +44,6 @@ https://drive.google.com/file/d/0B-vIMNU74JYOSWxReWxCNl9NaHM/view
 
 Game AI Pro - Volume 2
 https://drive.google.com/file/d/0B-vIMNU74JYOcnRSZ0xzZVJPcG8/view
+
+Real-Time Collision Detection
+https://drive.google.com/file/d/0B12m9I5z-WQ1bzcxcnJDaFJoUWc/view?usp=sharing
