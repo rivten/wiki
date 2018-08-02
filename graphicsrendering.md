@@ -49,6 +49,9 @@ https://anteru.net/blog/2018/codegen-for-fast-vulkan/
 Vulkan: Pipelines and Render States
 http://ourmachinery.com/post/vulkan-pipelines-and-render-states/
 
+MultiDrawIndirect
+https://ferransole.wordpress.com/2014/07/09/multidrawindirect/
+
 ## Frustum Culling
 
 The Implementation of Frustum Culling in Stingray
@@ -133,6 +136,9 @@ https://hal.inria.fr/hal-01824773/document
 
 Virtual Textures (aka Megatextures) talk
 https://www.youtube.com/watch?v=MejJL87yNgI
+
+Rich Geldreich's Tech Blog
+https://richg42.blogspot.com/
 
 ## Ray Tracing
 
