@@ -153,6 +153,20 @@ https://perso.liris.cnrs.fr/nicolas.bonneel/ENS.html
 0fps blog
 https://0fps.net/
 
+## Volumetric rendering
+
+Real-time Volume Rendering
+https://webdocs.cs.ualberta.ca/~pierreb/Visualization2006/Real-Time-Volume-Rendering.pdf
+
+Real-time Volumetric Rendering
+https://patapom.com/topics/Revision2013/Revision%202013%20-%20Real-time%20Volumetric%20Rendering%20Course%20Notes.pdf
+
+Deep Opacity Maps
+http://www.cemyuksel.com/research/deepopacity/deepopacitymaps.pdf
+
+Physically Based and Unified Volumetric Rendering in Frostbite
+https://www.slideshare.net/DICEStudio/physically-based-and-unified-volumetric-rendering-in-frostbite
+
 ## Unsorted (bad)
 
 GPU Gems
