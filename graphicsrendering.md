@@ -27,6 +27,9 @@ http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/
 Destiny's Multithreaded Rendering Architecture
 https://www.youtube.com/watch?v=0nTDFLMLX9k
 
+High-Level Rendering Using Render Graphs
+http://ourmachinery.com/post/high-level-rendering-using-render-graphs/
+
 ## Low-Level
 
 ## Vulkan / DX12
@@ -42,6 +45,9 @@ http://kylehalladay.com/blog/tutorial/vulkan/2018/01/28/Textue-Arrays-Vulkan.htm
 
 Codegen for Fast Vulkan
 https://anteru.net/blog/2018/codegen-for-fast-vulkan/
+
+Vulkan: Pipelines and Render States
+http://ourmachinery.com/post/vulkan-pipelines-and-render-states/
 
 ## Frustum Culling
 
