@@ -167,6 +167,15 @@ http://www.cemyuksel.com/research/deepopacity/deepopacitymaps.pdf
 Physically Based and Unified Volumetric Rendering in Frostbite
 https://www.slideshare.net/DICEStudio/physically-based-and-unified-volumetric-rendering-in-frostbite
 
+Dissecting Tiny Clouds
+https://blog.demofox.org/2017/11/26/dissecting-tiny-clouds/
+
+Production Volume Rendering
+http://graphics.pixar.com/library/ProductionVolumeRendering/paper.pdf
+
+Monte Carlo Methods for Volumetric Light Transport Simulation
+http://www.iliyan.com/publications/VolumeSTAR
+
 ## Unsorted (bad)
 
 GPU Gems
@@ -195,3 +204,9 @@ https://erkaman.github.io/posts/junior_graphics_programmer_interview.html
 
 Real-Time Rendering, 4th Edition Bibliography (over 2k refs)
 http://www.realtimerendering.com/refs.html
+
+The Technical Art of Uncharted 4
+http://advances.realtimerendering.com/other/2016/naughty_dog/NaughtyDog_TechArt_Final.pdf
+
+The Rendering of Inside
+http://loopit.dk/rendering_inside.pdf
