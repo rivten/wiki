@@ -210,3 +210,6 @@ http://advances.realtimerendering.com/other/2016/naughty_dog/NaughtyDog_TechArt_
 
 The Rendering of Inside
 http://loopit.dk/rendering_inside.pdf
+
+Octree-Based Sparse Voxelization Using the GPU Hardware Rasterizer
+https://www.seas.upenn.edu/%7Epcozzi/OpenGLInsights/OpenGLInsights-SparseVoxelization.pdf
