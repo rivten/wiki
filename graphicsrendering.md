@@ -151,6 +151,12 @@ https://aras-p.info/blog/2018/03/28/Daily-Pathtracer-Part-0-Intro/
 Mathematical methods for image synthesis
 https://perso.liris.cnrs.fr/nicolas.bonneel/ENS.html
 
+Stackless Multi-BVH Traversal for CPU, MIC and GPU Ray Tracing
+http://cg.iit.bme.hu/~afra/publications/afra2013cgf_mbvhsl.pdf
+
+Implementing a practical rendering system using GLSL
+https://www.ci.i.u-tokyo.ac.jp/~hachisuka/tdf2015.pdf
+
 ## Geometry
 
 0fps blog
