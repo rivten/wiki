@@ -139,6 +139,9 @@ http://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch11.html
 Adaptive Depth Bias for Shadow Maps
 http://jcgt.org/published/0003/04/08/paper-lowres.pdf
 
+Variance Shadow Maps
+http://www.punkuser.net/vsm/vsm_paper.pdf
+
 ## GPU Ray Tracing
 
 A Very Quick DirectX Raytracing API Primer
