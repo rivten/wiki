@@ -237,3 +237,6 @@ http://loopit.dk/rendering_inside.pdf
 
 Octree-Based Sparse Voxelization Using the GPU Hardware Rasterizer
 https://www.seas.upenn.edu/%7Epcozzi/OpenGLInsights/OpenGLInsights-SparseVoxelization.pdf
+
+Reverse Z Cheat Sheet
+https://web.archive.org/web/20180109193258/http://www.intrinsic-engine.com/reverse-z-cheat-sheet/
