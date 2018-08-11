@@ -127,6 +127,18 @@ http://the-witness.net/news/2010/03/graphics-tech-shadow-maps-part-1/
 A Sampling of Shadow Techniques
 https://mynameismjp.wordpress.com/2013/09/10/shadow-maps/
 
+Advanced Soft Shadow Mapping Techniques
+http://developer.download.nvidia.com/presentations/2008/GDC/GDC08_SoftShadowMapping.pdf
+
+Shadow Mapping GPU-based Tips and Techniques
+https://developer.amd.com/wordpress/media/2012/10/Isidoro-ShadowMapping.pdf
+
+Shadow Map Antialiasing
+http://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch11.html
+
+Adaptive Depth Bias for Shadow Maps
+http://jcgt.org/published/0003/04/08/paper-lowres.pdf
+
 ## GPU Ray Tracing
 
 A Very Quick DirectX Raytracing API Primer
