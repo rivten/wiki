@@ -147,6 +147,9 @@ http://www.punkuser.net/vsm/vsm_paper.pdf
 A Very Quick DirectX Raytracing API Primer
 https://blog.demofox.org/2018/03/19/a-very-quick-directx-raytracing-api-primer/
 
+Introduction to DirectX RayTracing
+http://www.intro-to-dxr.cwyman.org/
+
 ## Textures
 
 High-Performance By-Example Noise using a Histogram-Preserving Blending Operator
@@ -199,6 +202,26 @@ http://graphics.pixar.com/library/ProductionVolumeRendering/paper.pdf
 
 Monte Carlo Methods for Volumetric Light Transport Simulation
 http://www.iliyan.com/publications/VolumeSTAR
+
+## Screen Space Reflections
+
+Screen Space Glossy Reflections
+http://roar11.com/2015/07/screen-space-glossy-reflections/
+
+Screen Space Reflections in Killing Floor 2
+https://sakibsaikia.github.io/graphics/2016/12/25/Screen-Space-Reflection-in-Killing-Floor-2.html
+
+The Future of Screen Space Reflections
+https://bartwronski.com/2014/01/25/the-future-of-screenspace-reflections/
+
+Optimized pixel-projected reflections for planar reflectors
+http://advances.realtimerendering.com/s2017/PixelProjectedReflectionsAC_v_1.92_withNotes.pdf
+
+Screen Space Planar Reflections in Ghost Recon Wildlands
+http://remi-genin.fr/blog/screen-space-plane-indexed-reflection-in-ghost-recon-wildlands/
+
+Efficient GPU Screen-Space Ray Tracing
+http://jcgt.org/published/0003/04/04/paper.pdf
 
 ## Unsorted (bad)
 
