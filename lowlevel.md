@@ -54,6 +54,20 @@ http://www.egr.unlv.edu/~ed/assembly64.pdf
 Assembly Language for Beginners
 https://yurichev.com/writings/AL4B-EN.pdf
 
+## Floating Point
+
+The Pitfalls of verifying floating-point computations
+https://hal.archives-ouvertes.fr/hal-00128124v5/document
+
+IEEE-754 Floating Point Converter
+https://www.h-schmidt.net/FloatConverter/IEEE754.html
+
+Do you prefer fast or precise ?
+https://blogs.msdn.microsoft.com/vcblog/2015/10/19/do-you-prefer-fast-or-precise/
+
+What Every Computer Scientist Should Know About Floating-Point Arithmetic
+https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
+
 ## Linking libraries in far too many ways
 
 * Static Lib Linking (.lib)
