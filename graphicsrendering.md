@@ -119,6 +119,15 @@ https://ivokabel.github.io/2018/05/15/rendering-layered-materials.html
 Google Filament Github
 https://github.com/google/filament
 
+Microfacet Models for Refraction through Rough Surfaces
+http://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf
+
+Notes on importance sampling
+http://blog.tobias-franke.eu/2014/03/30/notes_on_importance_sampling.html
+
+Importance Sampling Microfacet-Based BSDFs using the Distribution of Visible Normals
+https://hal.inria.fr/hal-00996995v1/document
+
 ## Shadows
 
 Graphics Tech: Shadow Maps (Part 1)
