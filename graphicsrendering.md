@@ -128,6 +128,21 @@ http://blog.tobias-franke.eu/2014/03/30/notes_on_importance_sampling.html
 Importance Sampling Microfacet-Based BSDFs using the Distribution of Visible Normals
 https://hal.inria.fr/hal-00996995v1/document
 
+Moving Frostbite to Physically Based Rendering
+https://seblagarde.files.wordpress.com/2015/07/course_notes_moving_frostbite_to_pbr_v32.pdf
+
+PBR Diffuse Lighting for GGX + Smith Microsurfaces
+https://www.gdcvault.com/play/1024478/PBR-Diffuse-Lighting-for-GGX
+
+Physically Based Shading at Disney
+https://disney-animation.s3.amazonaws.com/library/s2012_pbs_disney_brdf_notes_v2.pdf
+
+Understanding the Masking-Shadowing Function in Microfacet-Based BRDFs
+https://blog.selfshadow.com/publications/s2014-shading-course/heitz/s2014_pbs_masking_shadowing_slides.pdf
+
+Physically Based Shader Design in Arnold
+https://blog.selfshadow.com/publications/s2014-shading-course/langlands/s2014_pbs_alshaders_notes.pdf
+
 ## Shadows
 
 Graphics Tech: Shadow Maps (Part 1)
