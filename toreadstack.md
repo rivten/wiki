@@ -47,3 +47,6 @@ https://drive.google.com/file/d/0B-vIMNU74JYOcnRSZ0xzZVJPcG8/view
 
 Cache-Oblivious Algorithms and Data Structures
 http://erikdemaine.org/papers/BRICS2002/paper.pdf
+
+Cache-friendly micro-jittered sampling
+https://hal.inria.fr/hal-01325702/document
